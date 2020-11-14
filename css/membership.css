@@ -25,32 +25,44 @@ header{
 .pBecome{
    width: 30%; 
    margin-left:23em;
+   position: absolute;
+   top:120%;
 }
 .pBecome p{
     color: #555555;  
 }
-.refund{
+/* .refund{
     position: relative;
     bottom: 98.7%;
     left: 30%;
     width: 30%;
-}
+} */
 .refund p{
     color: #555555;  
     font-size: 1.5em;
     padding-bottom: 4em;
 }
-.policy{
+/* .policy{
     position: relative;
     bottom: 106%;
     left: 30%;
     width: 30%;
 
-}
+} */
 .policy p{
     color: #555555;  
     font-size: 1.5em;
     
+}
+.investment{
+    position: relative;
+    left: 20%;
+    
+    width: 30%;
+    
+}
+.drag{
+    padding-bottom: 8em;
 }
 
 

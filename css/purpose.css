@@ -6,7 +6,7 @@ header{
     background-size:cover ;
 } 
 .line{
-    margin-top: 12em;
+    margin-top: 6em;
     max-width: 85%;
     margin-right:5em;
 }
@@ -28,14 +28,11 @@ header{
     
 }
 
- img{
+.veggies{
      position: relative;
-    width: 50%;
-    height: 50%;
-    margin-top: 3.5em;
-    margin-left: 40em;
-    padding-bottom: 2em;
-    bottom: 42em;
-    left:22em;
+    width: 25%;
+    padding-bottom: 25em;
+    top: 3em;
+    left:82em;
     
 }
