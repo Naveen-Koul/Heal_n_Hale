@@ -1,0 +1,56 @@
+header{
+    background-image:url(/img/vegetable2.jpg);
+    height:70vh;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover ;
+}
+* {box-sizing: border-box;}
+.pMember{
+    margin-top: 20em;
+    color: #555555;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.pBenefits{
+    color: #555555;
+    font-size: 2em;
+    font-weight: bold;
+}
+ .benefits li{
+    font-size: 2em;
+    color: #555555;  
+}
+.pBecome{
+   width: 30%; 
+   margin-left:23em;
+}
+.pBecome p{
+    color: #555555;  
+}
+.refund{
+    position: relative;
+    bottom: 98.7%;
+    left: 30%;
+    width: 30%;
+}
+.refund p{
+    color: #555555;  
+    font-size: 1.5em;
+    padding-bottom: 4em;
+}
+.policy{
+    position: relative;
+    bottom: 106%;
+    left: 30%;
+    width: 30%;
+
+}
+.policy p{
+    color: #555555;  
+    font-size: 1.5em;
+    
+}
+
+

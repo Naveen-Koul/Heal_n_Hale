@@ -1,0 +1,35 @@
+header{
+    background-image:url(/img/vegetable4.jpg);
+    height:70vh;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover ;
+} 
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  h1{
+      text-align: center;
+      font-size: 4em;
+  }
+  h2{
+      font-size: 2em;
+  }
+  p{
+      color: #555555;
+  }
+  

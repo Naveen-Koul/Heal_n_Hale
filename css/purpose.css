@@ -1,0 +1,41 @@
+header{
+    background-image:url(/img/vegetable4.jpg);
+    height:70vh;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover ;
+} 
+.line{
+    margin-top: 12em;
+    max-width: 85%;
+    margin-right:5em;
+}
+.purpose section h1{
+    font-size: 2em;
+}
+.purpose p{
+    color: #555555;
+}
+
+.purpose ul li{
+    font-size: 1.5em;
+}
+.purpose{
+    max-width: 50%;
+    margin-left: 18em;
+    padding-top: 1em;
+    position: absolute;
+    
+}
+
+ img{
+     position: relative;
+    width: 50%;
+    height: 50%;
+    margin-top: 3.5em;
+    margin-left: 40em;
+    padding-bottom: 2em;
+    bottom: 42em;
+    left:22em;
+    
+}

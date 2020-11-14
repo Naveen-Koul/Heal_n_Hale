@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/contactus.css">
+</head>
+<body>
+    <div class="main-banner">
+        <a class="main-logo" href="index.html"><span>Heal N Hale</span></a>
+    <div class="topnav" >
+        <a href="index.html" class="active">Home</a>
+        <div class="dropdown">
+          <button class="dropbtn">About Us
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="#">Our History</a>
+            <a href="#">Our Purpose</a>
+            <a href="#">Past Initiative</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <button class="dropbtn">Grant Program
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="#">Questions And Answers</a>
+            <a href="#">Past Recipients</a>
+          </div>
+        </div>
+        <a href="membership.html">Membership</a>
+        <a href="signup.html">Sign Up</a>
+        <a href="login.html">Log In</a>
+        <a href="contactus.html">Contact Us</a>
+      </div>
+</div> 
+<h3>Contact Form</h3>
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+</body>
+</html>

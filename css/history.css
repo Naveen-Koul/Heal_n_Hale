@@ -1,0 +1,32 @@
+header{
+    background-image:url(/img/vegetable2.jpg);
+    height:70vh;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover ;
+} 
+.line{
+    margin-top: 12em;
+    max-width: 70%;
+    margin-right:14em;
+}
+
+.peek h1{
+    font-size: 3em;
+}
+.peek p{
+    color: #555555;
+}
+.peek{
+    max-width: 70%;
+    margin-left: 22.5em;
+    display: flex;
+    padding-top: 1em;
+}
+
+.peek img{
+    width:30%;
+    margin-top: 3.5em;
+    margin-left: 12em;
+    padding-bottom: 2em;
+}

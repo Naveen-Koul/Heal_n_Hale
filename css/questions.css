@@ -1,0 +1,17 @@
+header{
+    background-image:url(/img/vegetable3.jpg);
+    height:70vh;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover ;
+} 
+p{
+    color:rgb(107, 99, 99);
+}
+
+ol li{
+    font-size: 1.5em;
+}
+h1{
+    font-size: 2em;
+}
